@@ -11,12 +11,12 @@
     "declaration": true,
     "importHelpers": true,
     "allowSyntheticDefaultImports": true,
-    "baseUrl": "./",
-    "paths": {
-      "@/*": ["src/*"],
-      "@@/*": ["src/.umi/*"],
-      "component-lib-demo": ["src/index.ts"]
-    }
+    "baseUrl": "./"
+    //    "paths": {
+    //      "@/*": ["src/*"],
+    //      "@@/*": ["src/.umi/*"],
+    //      "component-lib-demo": ["src/index.ts"]
+    //    }
   },
   "exclude": [
     "node_modules",

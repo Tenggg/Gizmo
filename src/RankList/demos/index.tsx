@@ -1,5 +1,5 @@
 import React from 'react';
-import { RankList } from '@/index';
+import { RankList } from 'react-pro-components';
 
 function RankListDemo() {
   const data = Array.from(new Array(10)).map((_, idx) => ({

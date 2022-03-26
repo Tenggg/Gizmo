@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { CountdownButton } from '@/index';
+import { CountdownButton } from 'react-pro-components';
 
 function CountdownButtonDemo() {
   const [loading, setLoading] = useState<boolean>(false);
