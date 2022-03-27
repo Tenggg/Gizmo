@@ -4,7 +4,7 @@ nav:
   title: 组件
   path: /components
 group:
-  path: /components
+  title: 排行榜
 ---
 
 # RankList 排行榜

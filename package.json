@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "Gizmo",
+  "name": "gizmo",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",

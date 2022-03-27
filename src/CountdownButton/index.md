@@ -4,7 +4,7 @@ nav:
   title: 组件
   path: /components
 group:
-  path: /components
+  title: 按钮
 ---
 
 # CountdownButton 倒计时按钮
