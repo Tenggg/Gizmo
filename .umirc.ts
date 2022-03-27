@@ -30,9 +30,9 @@ export default defineConfig({
   },
   base: BaseUrl,
   publicPath: BaseUrl + '/',
-  history: {
-    type: 'hash', // 设置路由模式为 hash 模式，防止部署至 GitHub Pages 后刷新网页后出现 404 的情况发生.
-  },
+  // history: {
+  //   type: 'hash', // 设置路由模式为 hash 模式，防止部署至 GitHub Pages 后刷新网页后出现 404 的情况发生.
+  // },
   // chainWebpack(memo) {
   //   // 设置 alias
   //   memo.resolve.alias.set('react-pro-components', path.resolve(__dirname, 'src', 'index.ts'));
